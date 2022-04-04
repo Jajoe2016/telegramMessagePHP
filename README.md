@@ -1,6 +1,6 @@
 # telegramMessagePHP
-uses MadelineProto library to send message to any telegram user
-full documentation and source is found at: https://github.com/danog/MadelineProto
+uses MadelineProto library to send message to any telegram user.
+Full documentation and source is found at: https://github.com/danog/MadelineProto
 
 how to run on terminal
 php myphp.php

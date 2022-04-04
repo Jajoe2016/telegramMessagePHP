@@ -2,8 +2,7 @@
 uses MadelineProto library to send message to any telegram user.
 Full documentation and source is found at: https://github.com/danog/MadelineProto
 
-how to run on terminal
-php myphp.php
+how to run on terminal: php myphp.php
 
 # First time setup - this one time setup should be completed before we start sending message.
 If it is run first time it will open a prompt.
